@@ -66,4 +66,4 @@ Contributions to this project are welcome! If you find any bugs or have ideas fo
 This project wouldn't be possible without the outstanding work of the dlib team and the deep learning model for face recognition they've developed.
 
 ---
-Created with ❤️ by the cv_face-recognition Team
+Created with ❤️
